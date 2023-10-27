@@ -1,5 +1,8 @@
 # The Fisheye Project
 
+Docker will run on [localhost:5000](http://127.0.0.1:5000/)
+
+# MetaVerse Version
 Fisheye is the Open Source Climate Change MetaVerse.  Fisheye organizes data related to climate action and makes that data available as 3D, real-time assets.  We believe popular engagement is the key to fighting climate change.  Fisheye brings everyone into the conversation by creating an immersive Digital Twin of Earth's climate.
 
 Fisheye has two primary work products.  First, a SQL-enabled database will ingest and normalize environmental data from a variety of sources including NOAA, the EPA and data rich NGOs.  Second, it will provide Virtual Twins for each data source and make the data immediately addressable with virtual environments such as Unity and Unreal.
